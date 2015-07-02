@@ -1,0 +1,24 @@
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  background-color: #6a842d ;
+  border-color: #6a842d ;
+}
+.badge {
+  font-weight: 500;
+  background-color: #315d44  ;
+  border-radius: 10px;
+}
+*, *:before, *:after {box-sizing:  border-box !important;}
+
+.row {
+ -moz-column-width: 18em;
+ -webkit-column-width: 18em;
+ -moz-column-gap: 1em;
+ -webkit-column-gap: 1em; 
+}
+
+.menu-category {
+ display: inline-block;
+ margin:  0.25rem;
+ padding:  1rem;
+ width:  100%; 
+}
